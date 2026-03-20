@@ -1,6 +1,10 @@
 <div align="center">
   <img src="../images/logo.png" alt="Soma Code Dev Logo" width="250" />
   <p>Turning ideas into high-impact digital solutions.</p>
+  <p align="center">
+    <a href="https://soma-code-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-33FF55?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website" /></a>
+    <a href="https://www.linkedin.com/company/soma-code" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 </div>
 
 ---
@@ -29,7 +33,7 @@ We use cutting-edge tools to ensure performance and security:
 
 ### 🌟 Featured Project
 
-#### [⏱️ Shukkin | 出勤](https://github.com/YujiSeto/Shukkin)
+#### [⏱️ Shukkin | 出勤](https://shukkin.vercel.app/)
 
 _A modern, multilingual time-tracking and attendance management web application._
 
