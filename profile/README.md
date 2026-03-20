@@ -1,6 +1,5 @@
 <div align="center">
   <img src="../images/logo.png" alt="Soma Code Dev Logo" width="250" />
-  <h1>Soma Code</h1>
   <p>Turning ideas into high-impact digital solutions.</p>
 </div>
 
