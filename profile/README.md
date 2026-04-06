@@ -31,13 +31,21 @@ We use cutting-edge tools to ensure performance and security:
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
 
 #### [⏱️ Shukkin | 出勤](https://shukkin.vercel.app/)
 
 _A modern, multilingual time-tracking and attendance management web application._
 
 - **Tech Stack:** Next.js 15, Tailwind v4, Prisma, Supabase, NextAuth.
+
+---
+
+#### [🌊 Kantan Flow](https://kantanflow.vercel.app/)
+
+_The digital Scrum Master for solopreneurs. Hypersync between Lean Canvas, Backlog, and GitHub in a premium ecosystem._
+
+- **Tech Stack:** Next.js 15 App Router, Drizzle ORM, Supabase, Vercel.
 
 ---
 
